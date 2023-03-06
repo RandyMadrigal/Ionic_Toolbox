@@ -1,0 +1,30 @@
+* {
+  font-weight: bold;
+}
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 15%;
+}
+
+.card {
+  width: 90%;
+  gap: 15px;
+}
+
+.input {
+  width: 80%;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: red;
+}

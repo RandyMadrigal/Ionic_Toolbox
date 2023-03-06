@@ -1,0 +1,17 @@
+* {
+  font-weight: bold;
+}
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 10%;
+}
+
+ul {
+  font-size: 20px;
+  list-style-type: square;
+}
